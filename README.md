@@ -1,6 +1,6 @@
 # BoostNet
 
-Surge 5 分流规则配置，开箱即用。
+Surge 6 分流规则配置，开箱即用。
 
 **广告拦截** ([Sukka RuleSet](https://github.com/SukkaW/Surge)) + **国内外智能分流** ([Loyalsoldier](https://github.com/Loyalsoldier/surge-rules))，白名单模式。
 
